@@ -1,0 +1,39 @@
+
+{"name": "deji",
+	 
+	 "age": "5",
+	 
+	 "class": "3",
+
+	 "subjects": ["English", "math", "political science"],
+
+	 "contact details": {"email": "adegbitesheriff300@gmail.com", "number": "07041841987"}
+	},
+
+
+
+
+{"name": "hameed", 
+	 
+	 "age":  "15",
+
+	 "class": "graduate",
+
+	 "subjects": ["Accounting", "math", "English"],
+
+	 "contact details": {"email": "hameed002@gmail.com", "number": "08060807241"}
+	},
+	 
+
+
+
+{"name": "habeeb",
+
+	 "age":  "4",
+	 
+	 "class": "400l",
+
+	 "subjects": ["Accounting", "math", "English"],
+
+	 "contact details": {"email": "habeebawotunji21@gmail.com", "number": "09012342156"}
+	}
