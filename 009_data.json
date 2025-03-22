@@ -1,0 +1,18 @@
+{"id": 1,
+
+ "brand": "Toyota",
+
+ "model": "corola",
+
+ "year":  "2002",
+
+ "colour": "Black",
+
+ "price":  "20000",
+
+ "features": ["Air conditioning", "Backup camera", "Sunroof"],
+
+ "engine": {"type": "petrol", "horsepower": 150, "capacity": "1.8l"
+ }
+}
+
