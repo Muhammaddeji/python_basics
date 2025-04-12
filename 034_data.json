@@ -1,0 +1,72 @@
+[
+  {
+    "id":1,
+    "Title":"The Prince",
+    "Author":"Niccolo Machiavelli",
+    "Year of Publication":1443,
+    "Price":12000
+  },
+  {
+    "id":2,
+    "Title":"Who moved my cheese",
+    "Author":"Spencer Johnson",
+    "Year of Publication":2012,
+    "Price":2000
+  },
+  {
+    "id":3,
+    "Title":"Ego is the Enemy",
+    "Author":"Ryan Holliday",
+    "Year of Publication":2017,
+    "Price":5000
+  },
+  {
+    "id":4,
+    "Title":"The Alchemist",
+    "Author":"Paulo Coelho",
+    "Year of Publication":2019,
+    "Price":3000
+  },
+  {
+    "id":5,
+    "Title":"48 Laws of Power",
+    "Author":"Robert Greene",
+    "Year of Publication":2007,
+    "Price":10000
+  },
+  {
+    "id":6,
+    "Title":"The white poison",
+    "Author":"Robert Nkurumah",
+    "Year of Publication":1997,
+    "Price":2000
+  },
+  {
+    "id":7,
+    "Title":"How Europe Underdevelop Africa",
+    "Author":"Walter Rodney",
+    "Year of Publication":1987,
+    "Price":5000
+  },
+  {
+    "id":8,
+    "Title":"The Laws of Luck",
+    "Author":"Brian Tracy",
+    "Year of Publication":2016,
+    "Price":4000
+  },
+  {
+    "id":9,
+    "Title":"The intellligent Trap",
+    "Author":"David Robson",
+    "Year of Publication":2019,
+    "Price":6000
+  },
+  {
+    "id":10,
+    "Title":"Mastery",
+    "Author":"Robert Greene",
+    "Year of Publication":2022,
+    "Price":10000
+  }
+]
